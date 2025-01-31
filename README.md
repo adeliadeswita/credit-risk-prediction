@@ -1,4 +1,4 @@
-# CREDEIT RISK PREDICTION HOME CREDIT
+# CREDIT RISK PREDICTION HOME CREDIT
   
 Home Credit faces challenges in accurately predicting credit scores, leading to the rejection of creditworthy customers and the approval of high-risk borrowers, resulting in lost revenue and increased default rates. Additionally, the current loan structuring (principal, maturity, and repayment schedule) is not fully optimized to enhance repayment success, and the lack of explainability in credit decisions reduces customer trust and regulatory compliance.
 
